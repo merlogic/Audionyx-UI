@@ -9,9 +9,6 @@ A sleek and modern sign-up page design made with **HTML** and **CSS**, inspired 
 - Icon buttons (Google, Facebook, Twitter) using Font Awesome
 - Clean, modern UI
 
-
-Live demo: [View on GitHub Pages](https://merlogic.github.io/audionyx-ui/)
-
 ## 🚀 Getting Started
 
 1. Clone the repo:
