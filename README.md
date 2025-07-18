@@ -11,8 +11,8 @@ A sleek and modern sign-up page design made with **HTML** and **CSS**, inspired 
 
 ## 🖥️ Preview
 
-![Login Screenshot](screenshots/login.png) 
-![Signup Screenshot](cscreenshots/signup.png) 
+![Login Screenshot](screenshots/Login.png) 
+![Signup Screenshot](cscreenshots/Signup.png) 
 
 Live demo: [View on GitHub Pages](https://merlogic.github.io/audionyx-signup/)
 
