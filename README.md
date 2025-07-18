@@ -10,7 +10,7 @@ A sleek and modern sign-up page design made with **HTML** and **CSS**, inspired 
 - Clean, modern UI
 
 
-Live demo: [View on GitHub Pages](https://merlogic.github.io/audionyx-signup/)
+Live demo: [View on GitHub Pages](https://merlogic.github.io/audionyx-ui/)
 
 ## 🚀 Getting Started
 
